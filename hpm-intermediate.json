@@ -1,5 +1,17 @@
 {
   "author": "Mike Bishop",
   "gitHubUrl": "https://github.com/MikeBishop/",
-  "payPalUrl": "https://www.paypal.com/paypalme/evequefou"
+  "payPalUrl": "https://www.paypal.com/paypalme/evequefou",
+  "packages": [
+    {
+      "id": "c74dce4d-d9cc-4e48-886f-8d21238e5f07",
+      "name": "TeslaMate",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hpm-intermediate/main/teslamate.json",
+      "description": "Uses the MQTT feed published by TeslaMate to expose monitored Tesla vehicles as read-only Hubitat devices",
+      "tags": [
+        "Vehicles & Transportation"
+      ]
+    }
+  ]
 }
