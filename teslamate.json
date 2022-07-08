@@ -1,0 +1,24 @@
+{
+  "packageName": "TeslaMate",
+  "author": "Mike Bishop",
+  "minimumHEVersion": "2.1.2",
+  "licenseFile": "https://raw.githubusercontent.com/MikeBishop/hubitat-teslamate/main/LICENSE",
+  "communityLink": "https://community.hubitat.com/t/beta-tesla-vehicle-via-teslamate-mqtt/92383",
+  "dateReleased": "2022-06-13",
+  "drivers": [
+    {
+      "id": "dd2dd60a-20ff-4884-912a-a947353e2ee4",
+      "name": "TeslaMate",
+      "namespace": "evequefou",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-teslamate/main/hubitat-teslamate.groovy",
+      "required": true
+    },
+    {
+      "id": "5f003bd0-ad0e-4568-b9fe-6c59c6193259",
+      "name": "TeslaMate Vehicle",
+      "namespace": "evequefou",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-teslamate/main/hubitat-teslamate-vehicle.groovy",
+      "required": true
+    }
+  ]
+}
