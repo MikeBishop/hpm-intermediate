@@ -12,6 +12,16 @@
       "tags": [
         "Vehicles & Transportation"
       ]
+    },
+    {
+      "id": "55aa9e8a-8c19-4b86-a0c5-ee71a8dc60da",
+      "name": "Holiday Lighting",
+      "category": "Control",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hpm-intermediate/main/holiday.json",
+      "description": "Themed light shows on RGB lights on holidays",
+      "tags": [
+        "Lights & Switches"
+      ]
     }
   ]
 }
