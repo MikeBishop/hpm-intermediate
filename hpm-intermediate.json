@@ -22,6 +22,16 @@
       "tags": [
         "Lights & Switches"
       ]
+    },
+    {
+      "id": "c83e98d2-f163-4ec6-a08c-cd8e2d6d01e0",
+      "name": "Filtered Device Mirror",
+      "category": "Utility",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hpm-intermediate/main/filtered-mirror.json",
+      "description": "Create a virtual device that reflects a single capability of a more complex device",
+      "tags": [
+        "Tools & Utilities"
+      ]
     }
   ]
 }
