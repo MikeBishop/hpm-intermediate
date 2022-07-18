@@ -4,7 +4,7 @@
   "minimumHEVersion": "2.1.2",
   "licenseFile": "https://raw.githubusercontent.com/MikeBishop/hubitat-teslamate/main/LICENSE",
   "communityLink": "https://community.hubitat.com/t/beta-tesla-vehicle-via-teslamate-mqtt/92383",
-  "dateReleased": "2022-06-13",
+  "dateReleased": "2022-07-18",
   "drivers": [
     {
       "id": "dd2dd60a-20ff-4884-912a-a947353e2ee4",
@@ -20,5 +20,7 @@
       "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-teslamate/main/hubitat-teslamate-vehicle.groovy",
       "required": true
     }
-  ]
+  ],
+  "version": "1.0.2",
+  "releaseNotes": "Bugfixes and stability"
 }

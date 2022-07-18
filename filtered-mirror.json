@@ -4,7 +4,7 @@
   "minimumHEVersion": "0.0",
   "licenseFile": "https://github.com/MikeBishop/hubitat-device-mirror/blob/main/LICENSE",
   "communityLink": "https://community.hubitat.com/t/beta-filtered-device-mirror/96940",
-  "dateReleased": "2022-07-08",
+  "dateReleased": "2022-07-18",
   "apps": [
     {
       "id": "66b2ee5f-4f33-46fc-95c8-a116da112733",
@@ -31,5 +31,6 @@
       "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-device-mirror/main/generic-component-powersource.groovy",
       "required": false
     }
-  ]
+  ],
+  "version": "1.0.0"
 }
