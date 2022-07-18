@@ -4,7 +4,7 @@
   "minimumHEVersion": "2.3.2.128",
   "licenseFile": "https://raw.githubusercontent.com/MikeBishop/hubitat-holiday/main/LICENSE",
   "communityLink": "https://community.hubitat.com/t/beta-holiday-lighting/96396",
-  "dateReleased": "2022-07-08",
+  "dateReleased": "2022-07-18",
   "apps": [
     {
       "id": "f63e3179-79dd-4ebb-8fa4-aa7948a2f433",
