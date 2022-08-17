@@ -4,7 +4,7 @@
   "minimumHEVersion": "2.1.2",
   "licenseFile": "https://raw.githubusercontent.com/MikeBishop/hubitat-teslamate/main/LICENSE",
   "communityLink": "https://community.hubitat.com/t/beta-tesla-vehicle-via-teslamate-mqtt/92383",
-  "dateReleased": "2022-07-18",
+  "dateReleased": "2022-08-17",
   "drivers": [
     {
       "id": "dd2dd60a-20ff-4884-912a-a947353e2ee4",
@@ -21,6 +21,6 @@
       "required": true
     }
   ],
-  "version": "1.0.2",
-  "releaseNotes": "Bugfixes and stability"
+  "version": "1.0.3",
+  "releaseNotes": "Bugfix in disconnection error handling"
 }
