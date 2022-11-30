@@ -21,6 +21,12 @@
       "id": "13b8995f-5491-4c12-afed-efb45896e8b9",
       "name": "evequefou_color_picker.js",
       "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-holiday/main/evequefou_color_picker.js"
+    },
+    {
+      "id": "13b8995f-5491-4c12-afed-efb45896e8b9",
+      "name": "evequefou_test.js",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hpm-intermediate/main/filtered-mirror.json"
     }
+
   ]
 }
