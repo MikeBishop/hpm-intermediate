@@ -32,6 +32,16 @@
       "tags": [
         "Tools & Utilities"
       ]
+    },
+    {
+      "id": "ed1f09a6-2463-4b6e-9c60-690fe78c6a63",
+      "name": "Palette Scenes",
+      "category": "Control",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hpm-intermediate/main/palette.json",
+      "description": "RGB light displays",
+      "tags": [
+        "Lights & Switches"
+      ]
     }
   ]
 }
