@@ -1,0 +1,24 @@
+{
+  "packageName": "Palette Scenes",
+  "author": "Mike Bishop",
+  "version": "1.2.0",
+  "minimumHEVersion": "2.3.2.128",
+  "licenseFile": "https://raw.githubusercontent.com/MikeBishop/hubitat-holiday/main/LICENSE",
+  "dateReleased": "2022-11-30",
+  "files": [
+    {
+      "id": "13b8995f-5491-4c12-afed-efb45896e8b9",
+      "name": "evequefou_color_picker.js",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-holiday/main/evequefou_color_picker.js"
+    }
+  ],
+  "bundles": [
+    {
+      "id": "d6d1d090-33f4-4641-bd3b-7d280fdb8db9",
+      "name": "palette-scenes",
+      "namespace": "evequefou",
+      "location": "https://github.com/MikeBishop/hubitat-holiday/releases/latest/download/palette-scenes.zip",
+      "required": true
+    }
+  ]
+}
