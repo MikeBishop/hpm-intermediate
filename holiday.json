@@ -14,8 +14,8 @@
       "required": true
     }
   ],
-  "version": "1.2.2",
-  "releaseNotes": "No functional changes; move code to library for easier maintenance and to support Palette Scenes",
+  "version": "1.2.3",
+  "releaseNotes": "Add support for 15 and 30 second intervals",
   "files": [
     {
       "id": "13b8995f-5491-4c12-afed-efb45896e8b9",
