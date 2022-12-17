@@ -14,8 +14,8 @@
       "required": true
     }
   ],
-  "version": "1.3.0",
-  "releaseNotes": "Add support for configuring illumination behavior when sensors are idle",
+  "version": "1.3.4",
+  "releaseNotes": "Add support for configuring illumination behavior when sensors are idle [+ bugfixes]",
   "files": [
     {
       "id": "13b8995f-5491-4c12-afed-efb45896e8b9",
