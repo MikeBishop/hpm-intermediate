@@ -14,8 +14,8 @@
       "required": true
     }
   ],
-  "version": "1.4.0",
-  "releaseNotes": "Add option to stagger color changes across the update period",
+  "version": "1.4.1",
+  "releaseNotes": "Add option to stagger color changes across the update period [+bugfixes]",
   "files": [
     {
       "id": "13b8995f-5491-4c12-afed-efb45896e8b9",
