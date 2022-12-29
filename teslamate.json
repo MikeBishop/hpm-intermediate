@@ -21,6 +21,6 @@
       "required": true
     }
   ],
-  "version": "1.0.3",
-  "releaseNotes": "Bugfix in disconnection error handling"
+  "version": "1.1.0",
+  "releaseNotes": "Optional Nearby presence sensor added"
 }
