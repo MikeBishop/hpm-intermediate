@@ -42,6 +42,26 @@
       "tags": [
         "Lights & Switches"
       ]
+    },
+    {
+      "id": "8080b219-3882-4a61-b094-29a124eb73eb",
+      "name": "Virtual Prestaging",
+      "category": "Utility",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hpm-intermediate/main/virtual-prestage.json",
+      "description": "Given a primary (likely virtual) device that has the desired values, the selected properties from the primary device will be sent to other devices when they turn on and as the primary changes.",
+      "tags": [
+        "Lights & Switches"
+      ]
+    },
+    {
+      "id": "1c64629d-03f7-4550-87a2-117aa0202cf2",
+      "name": "Contained Motion Zones",
+      "category": "Utility",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hpm-intermediate/main/contained-motion.json",
+      "description": "Combines motion sensors, contact sensors that define a boundary, and contact sensors that reflect presence to power a virtual motion sensor.",
+      "tags": [
+        "Motion Control"
+      ]
     }
   ]
 }
