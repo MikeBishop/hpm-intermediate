@@ -1,0 +1,29 @@
+{
+  "packageName": "Virtual Prestaging",
+  "author": "Mike Bishop",
+  "version": "1.0.1",
+  "minimumHEVersion": "0.0",
+  "licenseFile": "https://github.com/MikeBishop/hubitat-virtual-prestage/blob/main/LICENSE",
+  "communityLink": "https://community.hubitat.com/t/prerelease-virtual-prestaging/109556",
+  "dateReleased": "2023-01-07",
+  "apps": [
+    {
+      "id": "efd7dc7c-83c1-4555-a6ec-14104a09f855",
+      "name": "Virtual Prestaging",
+      "namespace": "evequefou",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-virtual-prestage/main/virtual-prestage.groovy",
+      "required": false,
+      "oauth": false,
+      "primary": false
+    },
+    {
+      "id": "c5767c8d-1b01-460c-b411-c59f1e94579d",
+      "name": "Virtual Prestaging Child",
+      "namespace": "evequefou",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-virtual-prestage/main/virtual-prestage-child.groovy",
+      "required": false,
+      "oauth": false,
+      "primary": false
+    }
+  ]
+}

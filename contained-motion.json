@@ -1,0 +1,37 @@
+{
+  "packageName": "Contained Motion Zones",
+  "author": "Mike Bishop",
+  "version": "1.0.0",
+  "minimumHEVersion": "0.0",
+  "licenseFile": "https://github.com/MikeBishop/hubitat-virtual-prestage/blob/main/LICENSE",
+  "dateReleased": "2023-06-26",
+  "apps": [
+    {
+      "id": "bcaca969-8f18-47f6-89b8-56f7360d06d3",
+      "name": "Contained Motion",
+      "namespace": "evequefou",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-virtual-prestage/main/contained-motion-parent.groovy",
+      "required": false,
+      "oauth": false,
+      "primary": false
+    },
+    {
+      "id": "990df49f-3355-46df-897e-4cbf2b02c53c",
+      "name": "Contained Motion Child",
+      "namespace": "evequefou",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-virtual-prestage/main/contained-motion-child.groovy",
+      "required": false,
+      "oauth": false,
+      "primary": false
+    }
+  ],
+  "drivers": [
+    {
+      "id": "796c10d8-d1e3-43b2-a517-3043074095db",
+      "name": "Contained Motion Container",
+      "namespace": "evequefou",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-virtual-prestage/main/contained-motion-container.groovy",
+      "required": false
+    }
+  ]
+}
