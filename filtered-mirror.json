@@ -32,6 +32,6 @@
       "required": false
     }
   ],
-  "version": "1.1.0",
-  "releaseNotes": "Add support for switches, including mirroring commands back"
+  "version": "1.2.0",
+  "releaseNotes": "Rearchitect update flow to enable relaying description text"
 }
