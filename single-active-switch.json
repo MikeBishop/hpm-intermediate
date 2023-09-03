@@ -1,0 +1,29 @@
+{
+  "packageName": "Single Active Switch",
+  "author": "Mike Bishop",
+  "version": "1.0.0",
+  "minimumHEVersion": "0.0",
+  "licenseFile": "https://raw.githubusercontent.com/MikeBishop/hubitat-singleactive/main/LICENSE",
+  "communityLink": "https://community.hubitat.com/t/beta-single-active-switch/123942",
+  "dateReleased": "2023-09-02",
+  "apps": [
+    {
+      "id": "e3819748-93e5-4284-82f6-7735ca11a626",
+      "name": "Single Active Switch",
+      "namespace": "evequefou",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-singleactive/main/single-active-switch-parent.groovy",
+      "required": true,
+      "oauth": false,
+      "primary": true
+    },
+    {
+      "id": "ef82139c-2b5a-4afa-a024-41fde5e74d30",
+      "name": "Single Active Switch Child",
+      "namespace": "evequefou",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-singleactive/main/single-active-switch-child.groovy",
+      "required": true,
+      "oauth": false,
+      "primary": false
+    }
+  ]
+}
