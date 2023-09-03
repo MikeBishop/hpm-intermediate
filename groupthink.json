@@ -1,0 +1,20 @@
+{
+  "packageName": "Groupthink",
+  "author": "Mike Bishop",
+  "version": "1.0.0",
+  "minimumHEVersion": "0.0",
+  "licenseFile": "https://raw.githubusercontent.com/MikeBishop/hubitat-groupthink/main/LICENSE",
+  "communityLink": "https://community.hubitat.com/t/beta-groupthink/123883/",
+  "dateReleased": "2023-09-01",
+  "apps": [
+    {
+      "id": "3f813828-85d9-4c3c-bf34-fdd8d8d6eb02",
+      "name": "Groupthink",
+      "namespace": "evequefou",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-groupthink/main/groupthink.groovy",
+      "required": true,
+      "oauth": false,
+      "primary": true
+    }
+  ]
+}
