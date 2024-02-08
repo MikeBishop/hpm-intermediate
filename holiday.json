@@ -14,8 +14,8 @@
       "required": true
     }
   ],
-  "version": "1.4.17",
-  "releaseNotes": "New feature: Disable switch; Fixes for hub outages and extra switches",
+  "version": "1.4.18",
+  "releaseNotes": "Bugfix: Month overflow not handled for Rosh Hashanah",
   "files": [
     {
       "id": "13b8995f-5491-4c12-afed-efb45896e8b9",
