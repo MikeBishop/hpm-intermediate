@@ -1,7 +1,8 @@
 {
   "packageName": "Virtual Prestaging",
   "author": "Mike Bishop",
-  "version": "1.0.3",
+  "version": "1.1.0",
+  "releaseNotes": "Reorganized around CT/RGB and ColorMode",
   "minimumHEVersion": "0.0",
   "licenseFile": "https://github.com/MikeBishop/hubitat-virtual-prestage/blob/main/LICENSE",
   "communityLink": "https://community.hubitat.com/t/prerelease-virtual-prestaging/109556",
