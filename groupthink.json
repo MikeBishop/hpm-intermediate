@@ -1,11 +1,12 @@
 {
   "packageName": "Groupthink",
   "author": "Mike Bishop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minimumHEVersion": "0.0",
   "licenseFile": "https://raw.githubusercontent.com/MikeBishop/hubitat-groupthink/main/LICENSE",
   "communityLink": "https://community.hubitat.com/t/beta-groupthink/123883/",
   "dateReleased": "2023-09-01",
+  "releaseNotes": "Bugfix: Error when warning about group failure",
   "apps": [
     {
       "id": "3f813828-85d9-4c3c-bf34-fdd8d8d6eb02",
