@@ -14,8 +14,8 @@
       "required": true
     }
   ],
-  "version": "1.4.18",
-  "releaseNotes": "Bugfix: Month overflow not handled for Rosh Hashanah",
+  "version": "1.5.0",
+  "releaseNotes": "Advanced options for variables and integration with other apps",
   "files": [
     {
       "id": "13b8995f-5491-4c12-afed-efb45896e8b9",
