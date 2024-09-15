@@ -13,7 +13,7 @@
       "name": "Virtual Prestaging",
       "namespace": "evequefou",
       "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-virtual-prestage/main/virtual-prestage.groovy",
-      "required": false,
+      "required": true,
       "oauth": false,
       "primary": false
     },
@@ -22,7 +22,7 @@
       "name": "Virtual Prestaging Child",
       "namespace": "evequefou",
       "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-virtual-prestage/main/virtual-prestage-child.groovy",
-      "required": false,
+      "required": true,
       "oauth": false,
       "primary": false
     }
