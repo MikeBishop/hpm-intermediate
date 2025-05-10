@@ -6,14 +6,14 @@
     "drivers": [
         {
             "id": "2f92971e-cff1-488d-91a1-81339d03d33a",
-            "name": "iCOMM Service",
+            "name": "iCOMM",
             "namespace": "evequefou",
             "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-icomm/refs/heads/main/icomm-service.groovy",
             "required": true
         },
         {
             "id": "9a2c292c-4d08-4ec0-bf17-ba5e5e429250",
-            "name": "iCOMM Water Heater",
+            "name": "iCOMMWaterHeater",
             "namespace": "evequefou",
             "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-icomm/refs/heads/main/icomm-water-heater.groovy",
             "required": true
