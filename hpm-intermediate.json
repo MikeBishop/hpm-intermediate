@@ -74,6 +74,16 @@
       ]
     },
     {
+      "id": "9058016b-46bf-4e01-91b0-a3dfd026174f",
+      "name": "iCOMM for Hubitat",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hpm-intermediate/main/icomm.json",
+      "description": "Integrates Hubitat with the iCOMM service for State and A.O. Smith hybrid water heaters.",
+      "tags": [
+        "Water Heater"
+      ]
+    },
+    {
       "id": "1c64629d-03f7-4550-87a2-117aa0202cf2",
       "name": "Contained Motion Zones",
       "category": "Utility",
