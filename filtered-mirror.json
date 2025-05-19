@@ -14,6 +14,15 @@
       "required": true,
       "oauth": false,
       "primary": true
+    },
+    {
+      "id": "8c7ee296-9818-4612-a9bd-3bc3884a16b8",
+      "name": "Mapped Device",
+      "namespace": "evequefou",
+      "location": "https://raw.githubusercontent.com/MikeBishop/hubitat-device-mirror/main/mapped-device.groovy",
+      "required": true,
+      "oauth": false,
+      "primary": false
     }
   ],
   "drivers": [
@@ -39,6 +48,6 @@
       "required": false
     }
   ],
-  "version": "1.4.0",
-  "releaseNotes": "Add support for temperature sensors"
+  "version": "2.0.0",
+  "releaseNotes": "New feature: Mapped Devices"
 }
