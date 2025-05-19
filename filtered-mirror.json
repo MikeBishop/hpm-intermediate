@@ -2,7 +2,7 @@
   "packageName": "Filtered Device Mirror",
   "author": "Mike Bishop",
   "minimumHEVersion": "0.0",
-  "licenseFile": "https://github.com/MikeBishop/hubitat-device-mirror/blob/main/LICENSE",
+  "licenseFile": "https://github.com/MikeBishop/hubitat-device-mirror/raw/refs/heads/main/LICENSE",
   "communityLink": "https://community.hubitat.com/t/beta-filtered-device-mirror/96940",
   "dateReleased": "2022-10-05",
   "apps": [
