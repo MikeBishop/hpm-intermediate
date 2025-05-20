@@ -1,8 +1,8 @@
 {
   "packageName": "Virtual Prestaging",
   "author": "Mike Bishop",
-  "version": "1.1.0",
-  "releaseNotes": "Reorganized around CT/RGB and ColorMode",
+  "version": "1.1.1",
+  "releaseNotes": "Bugfix: When primary device doesn't expose ColorMode, will still propagate changes to secondary devices.",
   "minimumHEVersion": "0.0",
   "licenseFile": "https://github.com/MikeBishop/hubitat-virtual-prestage/blob/main/LICENSE",
   "communityLink": "https://community.hubitat.com/t/prerelease-virtual-prestaging/109556",
