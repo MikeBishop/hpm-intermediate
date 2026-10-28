@@ -14,8 +14,8 @@
       "required": true
     }
   ],
-  "version": "1.5.0",
-  "releaseNotes": "Advanced options for variables and integration with other apps",
+  "version": "1.5.1",
+  "releaseNotes": "Bugfix: Colors fail on newer Hubitat firmware, which blocks evaluate(); Fix holiday offsets being dropped",
   "files": [
     {
       "id": "13b8995f-5491-4c12-afed-efb45896e8b9",
