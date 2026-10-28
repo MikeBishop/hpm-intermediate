@@ -1,10 +1,10 @@
 {
   "packageName": "Palette Scenes",
   "author": "Mike Bishop",
-  "version": "1.4.1",
+  "version": "1.5.8",
   "minimumHEVersion": "2.3.2.128",
   "licenseFile": "https://raw.githubusercontent.com/MikeBishop/hubitat-holiday/main/LICENSE",
-  "communityLink": "https: //community.hubitat.com/t/beta-palette-scenes/106335",
+  "communityLink": "https://community.hubitat.com/t/beta-palette-scenes/106335",
   "dateReleased": "2022-11-30",
   "files": [
     {

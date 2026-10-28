@@ -14,7 +14,7 @@
       "required": true
     }
   ],
-  "version": "1.5.1",
+  "version": "1.5.8",
   "releaseNotes": "Bugfix: Colors fail on newer Hubitat firmware, which blocks evaluate(); Fix holiday offsets being dropped",
   "files": [
     {
