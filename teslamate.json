@@ -21,6 +21,6 @@
       "required": true
     }
   ],
-  "version": "1.3",
-  "releaseNotes": "Expose is_user_present attribute"
+  "version": "1.4",
+  "releaseNotes": "Use TeslaMate location topic instead of deprecated latitude/longitude; expose active_route navigation details with low-frequency driving details"
 }
