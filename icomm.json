@@ -19,6 +19,6 @@
             "required": true
         }
     ],
-    "version": "1.1",
-    "releaseNotes": "Updated to support new iCOMM API version."
+    "version": "1.2",
+    "releaseNotes": "More resilient to iCOMM service outages: longer timeouts, retries, and re-login before token expiry. Status reports 'Update failed' only after 3 consecutive failed polls; logs one warning (with the cause) when failures start and one on recovery. Rejected credentials are reported immediately. Polls now use a random offset; click Save Preferences on the iCOMM device to apply it."
 }
